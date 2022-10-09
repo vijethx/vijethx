@@ -2,7 +2,7 @@ i like to build awesome stuff
 
 currently on to building web apps and writing smart contracts
 
-more about me [here](https://vijeth.vercel.app)
+more about me [here](https://vijeth.xyz)
 
 
 <!--
