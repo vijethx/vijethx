@@ -1,9 +1,4 @@
-i like to build awesome stuff
-
-currently on to building web apps and writing smart contracts
-
-more about me [here](https://vijeth.xyz)
-
+frontend web developer
 
 <!--
 **vijethx/vijethx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
