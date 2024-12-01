@@ -1,7 +1,6 @@
-learning 
-- fullstack web
-- solidity
+i do frontend web development, open for freelance gigs
 
+dm on [twitter/x](https://x.com/vijethx) or [farcaster](https://warpcast.com/vijethx)
 
 <!--
 **vijethx/vijethx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
