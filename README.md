@@ -1,18 +1,30 @@
-i do frontend web development, open for freelance gigs
+# vijethx
 
-dm on [twitter/x](https://x.com/vijethx) or [farcaster](https://warpcast.com/vijethx)
 
-<!--
-**vijethx/vijethx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+OPEN FOR WORK
 
-Here are some ideas to get you started:
+Currently looking full-time roles. Open for freelance gigs as well!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email
+vijeth at duck dot com
+```
+
+[warpcast](https://warpcast.com/vijethx) | [peerlist](https://peerlist.com/vijethx) | [twitter/x](https://x.com/vijethx)
+
+
+## about me
+i build web apps and write smart contracts
+
+always learning & breaking things
+
+## what i do
+- fullstack web dev
+- solidity smart contract dev
+
+## exploring
+- cryptography
+- security
+
+## blog/articles
+- [Pop!_OS Power Tricks: The Art of Automatic Profile Switching](https://peerlist.io/vijethx/articles/popos-automatic-profile-switching)
