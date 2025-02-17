@@ -26,5 +26,8 @@ always learning & breaking things
 - cryptography
 - security
 
-## blog/articles
-- [Pop!_OS Power Tricks: The Art of Automatic Profile Switching](https://peerlist.io/vijethx/articles/popos-automatic-profile-switching)
+<!-- ## blog/articles
+- [Pop!_OS Power Tricks: The Art of Automatic Profile Switching](https://peerlist.io/vijethx/articles/popos-automatic-profile-switching) */
+-->
+
+
